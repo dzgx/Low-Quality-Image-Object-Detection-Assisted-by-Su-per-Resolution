@@ -1,1 +1,1 @@
-# Low-Quality-Image-Object-Detection-Assisted-by-Su-per-Resolution
+# Low-Quality-Image-Object-Detection-Assisted-by-Super-Resolution
